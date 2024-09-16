@@ -19,8 +19,8 @@ include_once('local.config.php');
 
 
 // Environment or Globar variables
-$docroot = $_SERVER['DOCUMENT_ROOT']."/CSLaravelCourseNew";
-$webroot = "http://localhost/CSLaravelCourseNew";
+$docroot = $_SERVER['DOCUMENT_ROOT']."/CSLaravelCourse";
+$webroot = "http://localhost/CSLaravelCourse";
 $frontend = $docroot . "/Frontend";
 $backend = $docroot . "/backend";
 $fpartials = $frontend . "/partials";
