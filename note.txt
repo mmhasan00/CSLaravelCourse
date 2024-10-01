@@ -1,0 +1,6 @@
+1. __Line__
+2. Namespace: \global Namespace, namespace \BAF\CommUnit;
+3. magic method : own call method.
+4. __autoload($fqns)
+5. composer.json -> autoload 
+6. 
