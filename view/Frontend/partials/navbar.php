@@ -32,16 +32,16 @@
       <!-- Left links -->
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link" href="<?= $docroot?>/index.php">Home</a>
+          <a class="nav-link" href="<?= $docroot?>.'/index.php'">Home</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Choosen List</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="<?= $backend?>/createad.php">Create an Ad</a>
+          <a class="nav-link" href="<?= $backend.'/createad.php'?>">Create an Ad</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="<?= $backend?>/login.php">Login/Signup</a>
+          <a class="nav-link" href="<?= $backend.'/login.php'?>">Login/Signup</a>
         </li>
       </ul>
       <!-- Left links -->

@@ -3,4 +3,5 @@
 3. magic method : own call method.
 4. __autoload($fqns)
 5. composer.json -> autoload 
-6. 
+6. parent in class
+7. 
